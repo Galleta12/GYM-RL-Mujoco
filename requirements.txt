@@ -1,0 +1,6 @@
+#pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+#conda install swig
+#pip install stable-baselines3[extra]
+#mujoco=3.1.6 error with the renderer so I will use 2.3.7
+#pip install pyyaml python-box
+#pyquaternion
